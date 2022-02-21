@@ -1,0 +1,694 @@
+datetime,type,value,unit,month,date,daycount,subtype,outOfRange
+2021-03-11 07:11:00,Blood Sugar Reading,104,mg/dL,3,2021-03-11,1,fasting,True
+2021-03-11 08:01:00,Carbs,26,g,3,2021-03-11,1,breakfast,False
+2021-03-11 09:20:00,Blood Sugar Reading,121,mg/dL,3,2021-03-11,1,after_breakfast,False
+2021-03-11 11:18:00,Carbs,27,g,3,2021-03-11,1,snack_morning,False
+2021-03-11 13:30:00,Carbs,30,g,3,2021-03-11,1,lunch,False
+2021-03-11 14:35:00,Blood Sugar Reading,119,mg/dL,3,2021-03-11,1,after_lunch,False
+2021-03-11 17:30:00,Carbs,13,g,3,2021-03-11,1,snack_afternoon,False
+2021-03-11 18:55:00,Carbs,42,g,3,2021-03-11,1,dinner,False
+2021-03-11 19:54:00,Blood Sugar Reading,87,mg/dL,3,2021-03-11,1,after_dinner,False
+2021-03-12 07:04:00,Blood Sugar Reading,101,mg/dL,3,2021-03-12,2,fasting,True
+2021-03-12 08:00:00,Carbs,27,g,3,2021-03-12,2,breakfast,False
+2021-03-12 09:13:00,Blood Sugar Reading,99,mg/dL,3,2021-03-12,2,after_breakfast,False
+2021-03-12 11:04:00,Carbs,25,g,3,2021-03-12,2,snack_morning,False
+2021-03-12 13:33:00,Carbs,32,g,3,2021-03-12,2,lunch,False
+2021-03-12 14:33:00,Blood Sugar Reading,114,mg/dL,3,2021-03-12,2,after_lunch,False
+2021-03-12 16:32:00,Carbs,20,g,3,2021-03-12,2,snack_afternoon,False
+2021-03-12 19:26:00,Carbs,38,g,3,2021-03-12,2,dinner,False
+2021-03-12 20:29:00,Blood Sugar Reading,117,mg/dL,3,2021-03-12,2,after_dinner,False
+2021-03-12 21:10:00,Carbs,15,g,3,2021-03-12,2,snack_night,False
+2021-03-13 06:58:00,Blood Sugar Reading,96,mg/dL,3,2021-03-13,3,fasting,True
+2021-03-13 07:53:00,Carbs,15,g,3,2021-03-13,3,breakfast,False
+2021-03-13 08:56:00,Blood Sugar Reading,99,mg/dL,3,2021-03-13,3,after_breakfast,False
+2021-03-13 11:05:00,Carbs,28,g,3,2021-03-13,3,snack_morning,False
+2021-03-13 13:56:00,Carbs,21,g,3,2021-03-13,3,lunch,False
+2021-03-13 14:59:00,Blood Sugar Reading,109,mg/dL,3,2021-03-13,3,after_lunch,False
+2021-03-13 16:30:00,Carbs,28,g,3,2021-03-13,3,snack_afternoon,False
+2021-03-13 18:58:00,Carbs,47,g,3,2021-03-13,3,dinner,True
+2021-03-13 20:04:00,Blood Sugar Reading,153,mg/dL,3,2021-03-13,3,after_dinner,True
+2021-03-13 21:31:00,Carbs,15,g,3,2021-03-13,3,snack_night,False
+2021-03-14 08:01:00,Blood Sugar Reading,93,mg/dL,3,2021-03-14,4,fasting,True
+2021-03-14 11:04:00,Carbs,15,g,3,2021-03-14,4,breakfast,False
+2021-03-14 12:12:00,Blood Sugar Reading,103,mg/dL,3,2021-03-14,4,after_breakfast,False
+2021-03-14 13:25:00,Carbs,23,g,3,2021-03-14,4,snack_morning,False
+2021-03-14 16:05:00,Blood Sugar Reading,127,mg/dL,3,2021-03-14,4,after_lunch,False
+2021-03-14 17:10:00,Carbs,20,g,3,2021-03-14,4,snack_afternoon,False
+2021-03-14 20:13:00,Carbs,16,g,3,2021-03-14,4,dinner,False
+2021-03-14 21:18:00,Blood Sugar Reading,90,mg/dL,3,2021-03-14,4,after_dinner,False
+2021-03-14 21:30:00,Carbs,13,g,3,2021-03-14,4,snack_night,False
+2021-03-15 08:36:00,Blood Sugar Reading,89,mg/dL,3,2021-03-15,5,fasting,False
+2021-03-15 09:15:00,Carbs,16,g,3,2021-03-15,5,breakfast,False
+2021-03-15 10:15:00,Blood Sugar Reading,112,mg/dL,3,2021-03-15,5,after_breakfast,False
+2021-03-15 11:36:00,Carbs,23,g,3,2021-03-15,5,snack_morning,False
+2021-03-15 14:34:00,Carbs,40,g,3,2021-03-15,5,lunch,False
+2021-03-15 15:39:00,Blood Sugar Reading,111,mg/dL,3,2021-03-15,5,after_lunch,False
+2021-03-15 16:55:00,Carbs,20,g,3,2021-03-15,5,snack_afternoon,False
+2021-03-15 19:09:00,Carbs,25,g,3,2021-03-15,5,dinner,False
+2021-03-15 20:13:00,Blood Sugar Reading,103,mg/dL,3,2021-03-15,5,after_dinner,False
+2021-03-15 21:11:00,Carbs,11,g,3,2021-03-15,5,snack_night,False
+2021-03-16 08:55:00,Blood Sugar Reading,92,mg/dL,3,2021-03-16,6,fasting,True
+2021-03-16 10:09:00,Carbs,20,g,3,2021-03-16,6,breakfast,False
+2021-03-16 11:38:00,Blood Sugar Reading,97,mg/dL,3,2021-03-16,6,after_breakfast,False
+2021-03-16 15:09:00,Carbs,39,g,3,2021-03-16,6,snack_morning,True
+2021-03-16 16:10:00,Blood Sugar Reading,121,mg/dL,3,2021-03-16,6,after_lunch,False
+2021-03-16 17:40:00,Carbs,15,g,3,2021-03-16,6,snack_afternoon,False
+2021-03-16 19:22:00,Carbs,25,g,3,2021-03-16,6,dinner,False
+2021-03-16 20:27:00,Blood Sugar Reading,106,mg/dL,3,2021-03-16,6,after_dinner,False
+2021-03-16 21:25:00,Carbs,11,g,3,2021-03-16,6,snack_night,False
+2021-03-17 07:45:00,Blood Sugar Reading,100,mg/dL,3,2021-03-17,7,fasting,True
+2021-03-17 10:34:00,Carbs,23,g,3,2021-03-17,7,breakfast,False
+2021-03-17 12:04:00,Blood Sugar Reading,94,mg/dL,3,2021-03-17,7,after_breakfast,False
+2021-03-17 12:38:00,Carbs,28,g,3,2021-03-17,7,snack_morning,False
+2021-03-17 14:54:00,Carbs,30,g,3,2021-03-17,7,lunch,False
+2021-03-17 16:02:00,Blood Sugar Reading,94,mg/dL,3,2021-03-17,7,after_lunch,False
+2021-03-17 17:01:00,Carbs,20,g,3,2021-03-17,7,snack_afternoon,False
+2021-03-17 19:19:00,Carbs,37,g,3,2021-03-17,7,dinner,False
+2021-03-17 20:18:00,Blood Sugar Reading,108,mg/dL,3,2021-03-17,7,after_dinner,False
+2021-03-17 21:14:00,Carbs,13,g,3,2021-03-17,7,snack_night,False
+2021-03-18 07:53:00,Blood Sugar Reading,98,mg/dL,3,2021-03-18,8,fasting,True
+2021-03-18 09:45:00,Carbs,16,g,3,2021-03-18,8,breakfast,False
+2021-03-18 10:45:00,Blood Sugar Reading,110,mg/dL,3,2021-03-18,8,after_breakfast,False
+2021-03-18 12:10:00,Carbs,25,g,3,2021-03-18,8,snack_morning,False
+2021-03-18 16:01:00,Carbs,40,g,3,2021-03-18,8,lunch,False
+2021-03-18 17:02:00,Blood Sugar Reading,118,mg/dL,3,2021-03-18,8,after_lunch,False
+2021-03-18 18:24:00,Carbs,42,g,3,2021-03-18,8,snack_afternoon,True
+2021-03-18 19:24:00,Blood Sugar Reading,115,mg/dL,3,2021-03-18,8,after_dinner,False
+2021-03-18 21:12:00,Carbs,13,g,3,2021-03-18,8,snack_night,False
+2021-03-19 06:50:00,Blood Sugar Reading,100,mg/dL,3,2021-03-19,9,fasting,True
+2021-03-19 09:27:00,Carbs,30,g,3,2021-03-19,9,breakfast,False
+2021-03-19 10:35:00,Blood Sugar Reading,130,mg/dL,3,2021-03-19,9,after_breakfast,False
+2021-03-19 11:48:00,Carbs,27,g,3,2021-03-19,9,snack_morning,False
+2021-03-19 15:05:00,Carbs,40,g,3,2021-03-19,9,lunch,False
+2021-03-19 15:59:00,Blood Sugar Reading,118,mg/dL,3,2021-03-19,9,after_lunch,False
+2021-03-19 16:55:00,Carbs,10,g,3,2021-03-19,9,snack_afternoon,False
+2021-03-19 19:40:00,Blood Sugar Reading,136,mg/dL,3,2021-03-19,9,after_dinner,True
+2021-03-19 21:09:00,Carbs,29,g,3,2021-03-19,9,snack_night,False
+2021-03-20 10:15:00,Blood Sugar Reading,91,mg/dL,3,2021-03-20,10,fasting,True
+2021-03-20 10:38:00,Carbs,29,g,3,2021-03-20,10,breakfast,False
+2021-03-20 11:39:00,Blood Sugar Reading,125,mg/dL,3,2021-03-20,10,after_breakfast,False
+2021-03-20 12:52:00,Carbs,20,g,3,2021-03-20,10,snack_morning,False
+2021-03-20 14:34:00,Carbs,22,g,3,2021-03-20,10,lunch,False
+2021-03-20 15:33:00,Blood Sugar Reading,104,mg/dL,3,2021-03-20,10,after_lunch,False
+2021-03-20 17:19:00,Carbs,24,g,3,2021-03-20,10,snack_afternoon,False
+2021-03-20 19:47:00,Carbs,45,g,3,2021-03-20,10,dinner,False
+2021-03-20 20:49:00,Blood Sugar Reading,103,mg/dL,3,2021-03-20,10,after_dinner,False
+2021-03-20 21:51:00,Carbs,29,g,3,2021-03-20,10,snack_night,False
+2021-03-21 08:27:00,Blood Sugar Reading,104,mg/dL,3,2021-03-21,11,fasting,True
+2021-03-21 09:20:00,Carbs,31,g,3,2021-03-21,11,breakfast,True
+2021-03-21 10:22:00,Blood Sugar Reading,144,mg/dL,3,2021-03-21,11,after_breakfast,True
+2021-03-21 11:56:00,Carbs,27,g,3,2021-03-21,11,snack_morning,False
+2021-03-21 13:51:00,Carbs,39,g,3,2021-03-21,11,lunch,False
+2021-03-21 14:53:00,Blood Sugar Reading,100,mg/dL,3,2021-03-21,11,after_lunch,False
+2021-03-21 16:39:00,Carbs,28,g,3,2021-03-21,11,snack_afternoon,False
+2021-03-21 19:37:00,Carbs,41,g,3,2021-03-21,11,dinner,False
+2021-03-21 20:45:00,Blood Sugar Reading,117,mg/dL,3,2021-03-21,11,after_dinner,False
+2021-03-21 21:20:00,Carbs,11,g,3,2021-03-21,11,snack_night,False
+2021-03-22 07:21:00,Blood Sugar Reading,97,mg/dL,3,2021-03-22,12,fasting,True
+2021-03-22 10:07:00,Carbs,28,g,3,2021-03-22,12,breakfast,False
+2021-03-22 11:10:00,Blood Sugar Reading,120,mg/dL,3,2021-03-22,12,after_breakfast,False
+2021-03-22 13:05:00,Carbs,24,g,3,2021-03-22,12,snack_morning,False
+2021-03-22 14:35:00,Carbs,31,g,3,2021-03-22,12,lunch,False
+2021-03-22 15:31:00,Blood Sugar Reading,123,mg/dL,3,2021-03-22,12,after_lunch,False
+2021-03-22 17:00:00,Carbs,20,g,3,2021-03-22,12,snack_afternoon,False
+2021-03-22 19:20:00,Carbs,40,g,3,2021-03-22,12,dinner,False
+2021-03-22 20:39:00,Blood Sugar Reading,121,mg/dL,3,2021-03-22,12,after_dinner,False
+2021-03-22 21:35:00,Carbs,34,g,3,2021-03-22,12,snack_night,True
+2021-03-23 07:23:00,Blood Sugar Reading,94,mg/dL,3,2021-03-23,13,fasting,True
+2021-03-23 07:48:00,Carbs,14,g,3,2021-03-23,13,breakfast,False
+2021-03-23 09:00:00,Blood Sugar Reading,116,mg/dL,3,2021-03-23,13,after_breakfast,False
+2021-03-23 10:42:00,Carbs,25,g,3,2021-03-23,13,snack_morning,False
+2021-03-23 13:30:00,Carbs,30,g,3,2021-03-23,13,lunch,False
+2021-03-23 14:53:00,Blood Sugar Reading,107,mg/dL,3,2021-03-23,13,after_lunch,False
+2021-03-23 16:20:00,Carbs,20,g,3,2021-03-23,13,snack_afternoon,False
+2021-03-23 18:45:00,Carbs,40,g,3,2021-03-23,13,dinner,False
+2021-03-23 19:48:00,Blood Sugar Reading,108,mg/dL,3,2021-03-23,13,after_dinner,False
+2021-03-23 20:24:00,Carbs,28,g,3,2021-03-23,13,snack_night,False
+2021-03-24 07:31:00,Blood Sugar Reading,104,mg/dL,3,2021-03-24,14,fasting,True
+2021-03-24 09:05:00,Carbs,19,g,3,2021-03-24,14,breakfast,False
+2021-03-24 10:09:00,Blood Sugar Reading,109,mg/dL,3,2021-03-24,14,after_breakfast,False
+2021-03-24 11:20:00,Carbs,29,g,3,2021-03-24,14,snack_morning,False
+2021-03-24 14:47:00,Carbs,39,g,3,2021-03-24,14,lunch,False
+2021-03-24 16:00:00,Blood Sugar Reading,116,mg/dL,3,2021-03-24,14,after_lunch,False
+2021-03-24 17:23:00,Carbs,8,g,3,2021-03-24,14,snack_afternoon,False
+2021-03-24 20:12:00,Carbs,40,g,3,2021-03-24,14,dinner,False
+2021-03-24 21:19:00,Blood Sugar Reading,106,mg/dL,3,2021-03-24,14,after_dinner,False
+2021-03-24 21:43:00,Carbs,23,g,3,2021-03-24,14,snack_night,False
+2021-03-25 07:18:00,Blood Sugar Reading,98,mg/dL,3,2021-03-25,15,fasting,True
+2021-03-25 09:56:00,Carbs,22,g,3,2021-03-25,15,breakfast,False
+2021-03-25 11:16:00,Blood Sugar Reading,142,mg/dL,3,2021-03-25,15,after_breakfast,True
+2021-03-25 12:50:00,Carbs,19,g,3,2021-03-25,15,snack_morning,False
+2021-03-25 16:03:00,Carbs,39,g,3,2021-03-25,15,lunch,False
+2021-03-25 17:03:00,Blood Sugar Reading,123,mg/dL,3,2021-03-25,15,after_lunch,False
+2021-03-25 19:42:00,Carbs,45,g,3,2021-03-25,15,snack_afternoon,True
+2021-03-25 20:42:00,Blood Sugar Reading,112,mg/dL,3,2021-03-25,15,after_dinner,False
+2021-03-25 21:29:00,Carbs,23,g,3,2021-03-25,15,snack_night,False
+2021-03-26 07:43:00,Blood Sugar Reading,106,mg/dL,3,2021-03-26,16,fasting,True
+2021-03-26 09:00:00,Carbs,19,g,3,2021-03-26,16,breakfast,False
+2021-03-26 10:00:00,Blood Sugar Reading,117,mg/dL,3,2021-03-26,16,after_breakfast,False
+2021-03-26 11:39:00,Carbs,28,g,3,2021-03-26,16,snack_morning,False
+2021-03-26 15:05:00,Carbs,29,g,3,2021-03-26,16,lunch,False
+2021-03-26 16:05:00,Blood Sugar Reading,126,mg/dL,3,2021-03-26,16,after_lunch,False
+2021-03-26 17:04:00,Carbs,20,g,3,2021-03-26,16,snack_afternoon,False
+2021-03-26 19:11:00,Carbs,24,g,3,2021-03-26,16,dinner,False
+2021-03-26 20:12:00,Blood Sugar Reading,95,mg/dL,3,2021-03-26,16,after_dinner,False
+2021-03-26 21:24:00,Carbs,25,g,3,2021-03-26,16,snack_night,False
+2021-03-27 07:18:00,Blood Sugar Reading,101,mg/dL,3,2021-03-27,17,fasting,True
+2021-03-27 09:08:00,Carbs,28,g,3,2021-03-27,17,breakfast,False
+2021-03-27 10:10:00,Blood Sugar Reading,130,mg/dL,3,2021-03-27,17,after_breakfast,False
+2021-03-27 12:10:00,Carbs,29,g,3,2021-03-27,17,snack_morning,False
+2021-03-27 15:35:00,Blood Sugar Reading,104,mg/dL,3,2021-03-27,17,after_lunch,False
+2021-03-27 16:40:00,Carbs,20,g,3,2021-03-27,17,snack_afternoon,False
+2021-03-27 19:15:00,Carbs,41,g,3,2021-03-27,17,dinner,False
+2021-03-27 20:17:00,Blood Sugar Reading,122,mg/dL,3,2021-03-27,17,after_dinner,False
+2021-03-27 21:25:00,Carbs,25,g,3,2021-03-27,17,snack_night,False
+2021-03-28 07:07:00,Blood Sugar Reading,92,mg/dL,3,2021-03-28,18,fasting,True
+2021-03-28 08:51:00,Carbs,19,g,3,2021-03-28,18,breakfast,False
+2021-03-28 09:51:00,Blood Sugar Reading,118,mg/dL,3,2021-03-28,18,after_breakfast,False
+2021-03-28 11:24:00,Carbs,28,g,3,2021-03-28,18,snack_morning,False
+2021-03-28 13:30:00,Carbs,24,g,3,2021-03-28,18,lunch,False
+2021-03-28 14:31:00,Blood Sugar Reading,106,mg/dL,3,2021-03-28,18,after_lunch,False
+2021-03-28 15:51:00,Carbs,20,g,3,2021-03-28,18,snack_afternoon,False
+2021-03-28 18:19:00,Carbs,30,g,3,2021-03-28,18,dinner,False
+2021-03-28 19:25:00,Blood Sugar Reading,140,mg/dL,3,2021-03-28,18,after_dinner,True
+2021-03-28 21:33:00,Carbs,25,g,3,2021-03-28,18,snack_night,False
+2021-03-29 07:34:00,Blood Sugar Reading,97,mg/dL,3,2021-03-29,19,fasting,True
+2021-03-29 09:58:00,Carbs,19,g,3,2021-03-29,19,breakfast,False
+2021-03-29 11:03:00,Blood Sugar Reading,114,mg/dL,3,2021-03-29,19,after_breakfast,False
+2021-03-29 12:37:00,Carbs,29,g,3,2021-03-29,19,snack_morning,False
+2021-03-29 15:15:00,Carbs,25,g,3,2021-03-29,19,lunch,False
+2021-03-29 16:31:00,Blood Sugar Reading,113,mg/dL,3,2021-03-29,19,after_lunch,False
+2021-03-29 17:20:00,Carbs,31,g,3,2021-03-29,19,dinner,False
+2021-03-29 19:52:00,Carbs,40,g,3,2021-03-29,19,snack_night,True
+2021-03-30 08:24:00,Blood Sugar Reading,106,mg/dL,3,2021-03-30,20,fasting,True
+2021-03-30 08:44:00,Carbs,21,g,3,2021-03-30,20,breakfast,False
+2021-03-30 09:41:00,Blood Sugar Reading,127,mg/dL,3,2021-03-30,20,after_breakfast,False
+2021-03-30 12:41:00,Carbs,28,g,3,2021-03-30,20,snack_morning,False
+2021-03-30 14:54:00,Carbs,33,g,3,2021-03-30,20,lunch,False
+2021-03-30 15:56:00,Blood Sugar Reading,119,mg/dL,3,2021-03-30,20,after_lunch,False
+2021-03-30 16:47:00,Carbs,20,g,3,2021-03-30,20,snack_afternoon,False
+2021-03-30 19:26:00,Carbs,38,g,3,2021-03-30,20,dinner,False
+2021-03-30 20:31:00,Blood Sugar Reading,123,mg/dL,3,2021-03-30,20,after_dinner,False
+2021-03-30 21:36:00,Carbs,28,g,3,2021-03-30,20,snack_night,False
+2021-03-31 07:36:00,Blood Sugar Reading,98,mg/dL,3,2021-03-31,21,fasting,True
+2021-03-31 09:34:00,Carbs,26,g,3,2021-03-31,21,breakfast,False
+2021-03-31 10:49:00,Blood Sugar Reading,151,mg/dL,3,2021-03-31,21,after_breakfast,True
+2021-03-31 12:15:00,Carbs,29,g,3,2021-03-31,21,snack_morning,False
+2021-03-31 14:47:00,Carbs,22,g,3,2021-03-31,21,lunch,False
+2021-03-31 16:00:00,Blood Sugar Reading,119,mg/dL,3,2021-03-31,21,after_lunch,False
+2021-03-31 17:14:00,Carbs,23,g,3,2021-03-31,21,snack_afternoon,False
+2021-03-31 19:58:00,Carbs,38,g,3,2021-03-31,21,dinner,False
+2021-03-31 21:02:00,Blood Sugar Reading,132,mg/dL,3,2021-03-31,21,after_dinner,True
+2021-03-31 22:03:00,Carbs,18,g,3,2021-03-31,21,snack_night,False
+2021-04-01 09:37:00,Blood Sugar Reading,91,mg/dL,4,2021-04-01,22,fasting,True
+2021-04-01 10:04:00,Carbs,19,g,4,2021-04-01,22,breakfast,False
+2021-04-01 11:02:00,Blood Sugar Reading,127,mg/dL,4,2021-04-01,22,after_breakfast,False
+2021-04-01 12:37:00,Carbs,28,g,4,2021-04-01,22,snack_morning,False
+2021-04-01 15:11:00,Carbs,35,g,4,2021-04-01,22,lunch,False
+2021-04-01 16:22:00,Blood Sugar Reading,110,mg/dL,4,2021-04-01,22,after_lunch,False
+2021-04-01 17:34:00,Carbs,15,g,4,2021-04-01,22,snack_afternoon,False
+2021-04-01 20:09:00,Carbs,45,g,4,2021-04-01,22,dinner,False
+2021-04-01 21:06:00,Blood Sugar Reading,139,mg/dL,4,2021-04-01,22,after_dinner,True
+2021-04-01 22:12:00,Carbs,18,g,4,2021-04-01,22,snack_night,False
+2021-04-02 08:18:00,Blood Sugar Reading,100,mg/dL,4,2021-04-02,23,fasting,True
+2021-04-02 09:17:00,Carbs,29,g,4,2021-04-02,23,breakfast,False
+2021-04-02 10:20:00,Blood Sugar Reading,119,mg/dL,4,2021-04-02,23,after_breakfast,False
+2021-04-02 12:19:00,Carbs,28,g,4,2021-04-02,23,snack_morning,False
+2021-04-02 14:23:00,Carbs,40,g,4,2021-04-02,23,lunch,False
+2021-04-02 15:19:00,Blood Sugar Reading,121,mg/dL,4,2021-04-02,23,after_lunch,False
+2021-04-02 16:27:00,Carbs,20,g,4,2021-04-02,23,snack_afternoon,False
+2021-04-02 18:45:00,Carbs,45,g,4,2021-04-02,23,dinner,False
+2021-04-02 19:49:00,Blood Sugar Reading,106,mg/dL,4,2021-04-02,23,after_dinner,False
+2021-04-02 21:47:00,Carbs,18,g,4,2021-04-02,23,snack_night,False
+2021-04-03 08:58:00,Blood Sugar Reading,97,mg/dL,4,2021-04-03,24,fasting,True
+2021-04-03 09:44:00,Carbs,30,g,4,2021-04-03,24,breakfast,False
+2021-04-03 10:42:00,Blood Sugar Reading,121,mg/dL,4,2021-04-03,24,after_breakfast,False
+2021-04-03 11:46:00,Carbs,29,g,4,2021-04-03,24,snack_morning,False
+2021-04-03 15:06:00,Carbs,40,g,4,2021-04-03,24,lunch,False
+2021-04-03 16:09:00,Blood Sugar Reading,96,mg/dL,4,2021-04-03,24,after_lunch,False
+2021-04-03 19:13:00,Carbs,45,g,4,2021-04-03,24,snack_afternoon,True
+2021-04-03 20:12:00,Blood Sugar Reading,123,mg/dL,4,2021-04-03,24,after_dinner,False
+2021-04-03 21:26:00,Carbs,18,g,4,2021-04-03,24,snack_night,False
+2021-04-04 08:31:00,Blood Sugar Reading,99,mg/dL,4,2021-04-04,25,fasting,True
+2021-04-04 08:55:00,Carbs,30,g,4,2021-04-04,25,breakfast,False
+2021-04-04 09:59:00,Blood Sugar Reading,111,mg/dL,4,2021-04-04,25,after_breakfast,False
+2021-04-04 11:26:00,Carbs,29,g,4,2021-04-04,25,snack_morning,False
+2021-04-04 14:15:00,Carbs,36,g,4,2021-04-04,25,lunch,False
+2021-04-04 15:19:00,Blood Sugar Reading,108,mg/dL,4,2021-04-04,25,after_lunch,False
+2021-04-04 16:37:00,Carbs,34,g,4,2021-04-04,25,snack_afternoon,True
+2021-04-04 19:35:00,Carbs,26,g,4,2021-04-04,25,dinner,False
+2021-04-04 20:34:00,Blood Sugar Reading,114,mg/dL,4,2021-04-04,25,after_dinner,False
+2021-04-04 21:39:00,Carbs,18,g,4,2021-04-04,25,snack_night,False
+2021-04-05 07:56:00,Blood Sugar Reading,99,mg/dL,4,2021-04-05,26,fasting,True
+2021-04-05 08:25:00,Carbs,30,g,4,2021-04-05,26,breakfast,False
+2021-04-05 09:30:00,Blood Sugar Reading,131,mg/dL,4,2021-04-05,26,after_breakfast,True
+2021-04-05 10:35:00,Carbs,27,g,4,2021-04-05,26,snack_morning,False
+2021-04-05 13:32:00,Carbs,40,g,4,2021-04-05,26,lunch,False
+2021-04-05 14:37:00,Blood Sugar Reading,108,mg/dL,4,2021-04-05,26,after_lunch,False
+2021-04-05 16:47:00,Carbs,25,g,4,2021-04-05,26,snack_afternoon,False
+2021-04-05 19:48:00,Carbs,35,g,4,2021-04-05,26,dinner,False
+2021-04-05 20:45:00,Blood Sugar Reading,127,mg/dL,4,2021-04-05,26,after_dinner,False
+2021-04-05 21:54:00,Carbs,18,g,4,2021-04-05,26,snack_night,False
+2021-04-06 07:33:00,Blood Sugar Reading,97,mg/dL,4,2021-04-06,27,fasting,True
+2021-04-06 09:29:00,Carbs,30,g,4,2021-04-06,27,breakfast,False
+2021-04-06 10:31:00,Blood Sugar Reading,121,mg/dL,4,2021-04-06,27,after_breakfast,False
+2021-04-06 11:24:00,Carbs,30,g,4,2021-04-06,27,snack_morning,False
+2021-04-06 15:00:00,Carbs,36,g,4,2021-04-06,27,lunch,False
+2021-04-06 16:48:00,Blood Sugar Reading,123,mg/dL,4,2021-04-06,27,after_lunch,False
+2021-04-06 17:40:00,Carbs,20,g,4,2021-04-06,27,snack_afternoon,False
+2021-04-06 19:46:00,Carbs,31,g,4,2021-04-06,27,dinner,False
+2021-04-06 20:47:00,Blood Sugar Reading,119,mg/dL,4,2021-04-06,27,after_dinner,False
+2021-04-06 21:45:00,Carbs,18,g,4,2021-04-06,27,snack_night,False
+2021-04-07 10:27:00,Blood Sugar Reading,90,mg/dL,4,2021-04-07,28,fasting,False
+2021-04-07 11:12:00,Carbs,30,g,4,2021-04-07,28,breakfast,False
+2021-04-07 12:18:00,Blood Sugar Reading,106,mg/dL,4,2021-04-07,28,after_breakfast,False
+2021-04-07 13:44:00,Carbs,27,g,4,2021-04-07,28,snack_morning,False
+2021-04-07 15:49:00,Carbs,40,g,4,2021-04-07,28,lunch,False
+2021-04-07 17:03:00,Blood Sugar Reading,101,mg/dL,4,2021-04-07,28,after_lunch,False
+2021-04-07 17:53:00,Carbs,21,g,4,2021-04-07,28,snack_afternoon,False
+2021-04-07 19:39:00,Carbs,31,g,4,2021-04-07,28,dinner,False
+2021-04-07 20:39:00,Blood Sugar Reading,133,mg/dL,4,2021-04-07,28,after_dinner,True
+2021-04-07 21:42:00,Carbs,18,g,4,2021-04-07,28,snack_night,False
+2021-04-08 08:48:00,Blood Sugar Reading,98,mg/dL,4,2021-04-08,29,fasting,True
+2021-04-08 10:03:00,Carbs,19,g,4,2021-04-08,29,breakfast,False
+2021-04-08 11:10:00,Blood Sugar Reading,117,mg/dL,4,2021-04-08,29,after_breakfast,False
+2021-04-08 14:23:00,Carbs,34,g,4,2021-04-08,29,snack_morning,True
+2021-04-08 17:18:00,Carbs,24,g,4,2021-04-08,29,lunch,False
+2021-04-08 20:01:00,Carbs,39,g,4,2021-04-08,29,dinner,False
+2021-04-08 21:03:00,Blood Sugar Reading,125,mg/dL,4,2021-04-08,29,after_dinner,False
+2021-04-08 21:50:00,Carbs,18,g,4,2021-04-08,29,snack_night,False
+2021-04-09 08:45:00,Blood Sugar Reading,95,mg/dL,4,2021-04-09,30,fasting,True
+2021-04-09 09:10:00,Carbs,25,g,4,2021-04-09,30,breakfast,False
+2021-04-09 10:11:00,Blood Sugar Reading,110,mg/dL,4,2021-04-09,30,after_breakfast,False
+2021-04-09 12:27:00,Carbs,29,g,4,2021-04-09,30,snack_morning,False
+2021-04-09 14:30:00,Carbs,36,g,4,2021-04-09,30,lunch,False
+2021-04-09 15:40:00,Blood Sugar Reading,106,mg/dL,4,2021-04-09,30,after_lunch,False
+2021-04-09 16:53:00,Carbs,20,g,4,2021-04-09,30,snack_afternoon,False
+2021-04-09 20:00:00,Carbs,34,g,4,2021-04-09,30,dinner,False
+2021-04-09 21:04:00,Blood Sugar Reading,103,mg/dL,4,2021-04-09,30,after_dinner,False
+2021-04-09 21:50:00,Carbs,34,g,4,2021-04-09,30,snack_night,True
+2021-04-10 08:33:00,Blood Sugar Reading,95,mg/dL,4,2021-04-10,31,fasting,True
+2021-04-10 08:54:00,Carbs,25,g,4,2021-04-10,31,breakfast,False
+2021-04-10 09:56:00,Blood Sugar Reading,115,mg/dL,4,2021-04-10,31,after_breakfast,False
+2021-04-10 11:55:00,Carbs,29,g,4,2021-04-10,31,snack_morning,False
+2021-04-10 14:43:00,Carbs,34,g,4,2021-04-10,31,lunch,False
+2021-04-10 15:43:00,Blood Sugar Reading,116,mg/dL,4,2021-04-10,31,after_lunch,False
+2021-04-10 19:37:00,Carbs,30,g,4,2021-04-10,31,snack_afternoon,False
+2021-04-10 20:46:00,Blood Sugar Reading,110,mg/dL,4,2021-04-10,31,after_dinner,False
+2021-04-11 08:26:00,Blood Sugar Reading,94,mg/dL,4,2021-04-11,32,fasting,True
+2021-04-11 09:57:00,Carbs,28,g,4,2021-04-11,32,breakfast,False
+2021-04-11 10:55:00,Blood Sugar Reading,119,mg/dL,4,2021-04-11,32,after_breakfast,False
+2021-04-11 12:26:00,Carbs,28,g,4,2021-04-11,32,snack_morning,False
+2021-04-11 15:06:00,Carbs,37,g,4,2021-04-11,32,lunch,False
+2021-04-11 16:21:00,Blood Sugar Reading,108,mg/dL,4,2021-04-11,32,after_lunch,False
+2021-04-11 17:55:00,Carbs,30,g,4,2021-04-11,32,dinner,False
+2021-04-11 20:35:00,Carbs,34,g,4,2021-04-11,32,snack_night,True
+2021-04-12 08:28:00,Blood Sugar Reading,94,mg/dL,4,2021-04-12,33,fasting,True
+2021-04-12 08:54:00,Carbs,25,g,4,2021-04-12,33,breakfast,False
+2021-04-12 09:59:00,Blood Sugar Reading,114,mg/dL,4,2021-04-12,33,after_breakfast,False
+2021-04-12 11:56:00,Carbs,30,g,4,2021-04-12,33,snack_morning,False
+2021-04-12 13:59:00,Carbs,30,g,4,2021-04-12,33,lunch,False
+2021-04-12 15:08:00,Blood Sugar Reading,94,mg/dL,4,2021-04-12,33,after_lunch,False
+2021-04-12 16:48:00,Carbs,24,g,4,2021-04-12,33,snack_afternoon,False
+2021-04-12 19:29:00,Carbs,40,g,4,2021-04-12,33,dinner,False
+2021-04-12 20:27:00,Blood Sugar Reading,100,mg/dL,4,2021-04-12,33,after_dinner,False
+2021-04-12 21:38:00,Carbs,18,g,4,2021-04-12,33,snack_night,False
+2021-04-13 08:16:00,Blood Sugar Reading,95,mg/dL,4,2021-04-13,34,fasting,True
+2021-04-13 08:46:00,Carbs,25,g,4,2021-04-13,34,breakfast,False
+2021-04-13 10:01:00,Blood Sugar Reading,112,mg/dL,4,2021-04-13,34,after_breakfast,False
+2021-04-13 11:43:00,Carbs,30,g,4,2021-04-13,34,snack_morning,False
+2021-04-13 13:40:00,Carbs,30,g,4,2021-04-13,34,lunch,False
+2021-04-13 17:48:00,Carbs,27,g,4,2021-04-13,34,snack_afternoon,False
+2021-04-13 19:44:00,Carbs,40,g,4,2021-04-13,34,dinner,False
+2021-04-13 20:46:00,Blood Sugar Reading,134,mg/dL,4,2021-04-13,34,after_dinner,True
+2021-04-13 21:41:00,Carbs,18,g,4,2021-04-13,34,snack_night,False
+2021-04-14 09:07:00,Blood Sugar Reading,90,mg/dL,4,2021-04-14,35,fasting,False
+2021-04-14 10:34:00,Blood Sugar Reading,111,mg/dL,4,2021-04-14,35,after_breakfast,False
+2021-04-14 12:05:00,Carbs,20,g,4,2021-04-14,35,snack_morning,False
+2021-04-14 14:33:00,Carbs,40,g,4,2021-04-14,35,lunch,False
+2021-04-14 15:41:00,Blood Sugar Reading,98,mg/dL,4,2021-04-14,35,after_lunch,False
+2021-04-14 19:56:00,Carbs,45,g,4,2021-04-14,35,snack_afternoon,True
+2021-04-14 20:58:00,Blood Sugar Reading,111,mg/dL,4,2021-04-14,35,after_dinner,False
+2021-04-14 21:47:00,Carbs,18,g,4,2021-04-14,35,snack_night,False
+2021-04-15 08:16:00,Blood Sugar Reading,98,mg/dL,4,2021-04-15,36,fasting,True
+2021-04-15 09:14:00,Carbs,25,g,4,2021-04-15,36,breakfast,False
+2021-04-15 10:18:00,Blood Sugar Reading,107,mg/dL,4,2021-04-15,36,after_breakfast,False
+2021-04-15 11:28:00,Carbs,8,g,4,2021-04-15,36,snack_morning,False
+2021-04-15 15:05:00,Carbs,34,g,4,2021-04-15,36,lunch,False
+2021-04-15 16:05:00,Blood Sugar Reading,113,mg/dL,4,2021-04-15,36,after_lunch,False
+2021-04-15 17:23:00,Carbs,22,g,4,2021-04-15,36,snack_afternoon,False
+2021-04-15 19:45:00,Carbs,39,g,4,2021-04-15,36,dinner,False
+2021-04-15 20:45:00,Blood Sugar Reading,138,mg/dL,4,2021-04-15,36,after_dinner,True
+2021-04-15 21:54:00,Carbs,16,g,4,2021-04-15,36,snack_night,False
+2021-04-16 08:42:00,Blood Sugar Reading,93,mg/dL,4,2021-04-16,37,fasting,True
+2021-04-16 09:08:00,Carbs,25,g,4,2021-04-16,37,breakfast,False
+2021-04-16 10:09:00,Blood Sugar Reading,102,mg/dL,4,2021-04-16,37,after_breakfast,False
+2021-04-16 12:47:00,Carbs,20,g,4,2021-04-16,37,snack_morning,False
+2021-04-16 16:20:00,Carbs,34,g,4,2021-04-16,37,lunch,False
+2021-04-16 17:41:00,Blood Sugar Reading,96,mg/dL,4,2021-04-16,37,after_lunch,False
+2021-04-16 21:53:00,Carbs,16,g,4,2021-04-16,37,snack_night,False
+2021-04-17 08:58:00,Blood Sugar Reading,83,mg/dL,4,2021-04-17,38,fasting,False
+2021-04-17 09:31:00,Carbs,30,g,4,2021-04-17,38,breakfast,False
+2021-04-17 12:30:00,Carbs,27,g,4,2021-04-17,38,snack_morning,False
+2021-04-17 15:15:00,Carbs,40,g,4,2021-04-17,38,lunch,False
+2021-04-17 16:35:00,Blood Sugar Reading,100,mg/dL,4,2021-04-17,38,after_lunch,False
+2021-04-17 17:42:00,Carbs,30,g,4,2021-04-17,38,snack_afternoon,False
+2021-04-17 20:00:00,Carbs,20,g,4,2021-04-17,38,dinner,False
+2021-04-17 21:04:00,Blood Sugar Reading,107,mg/dL,4,2021-04-17,38,after_dinner,False
+2021-04-17 21:38:00,Carbs,16,g,4,2021-04-17,38,snack_night,False
+2021-04-18 08:32:00,Blood Sugar Reading,88,mg/dL,4,2021-04-18,39,fasting,False
+2021-04-18 09:24:00,Carbs,25,g,4,2021-04-18,39,breakfast,False
+2021-04-18 10:24:00,Blood Sugar Reading,117,mg/dL,4,2021-04-18,39,after_breakfast,False
+2021-04-18 11:50:00,Carbs,20,g,4,2021-04-18,39,snack_morning,False
+2021-04-18 14:25:00,Carbs,30,g,4,2021-04-18,39,lunch,False
+2021-04-18 15:36:00,Blood Sugar Reading,106,mg/dL,4,2021-04-18,39,after_lunch,False
+2021-04-18 17:18:00,Carbs,29,g,4,2021-04-18,39,snack_afternoon,False
+2021-04-18 20:05:00,Carbs,33,g,4,2021-04-18,39,dinner,False
+2021-04-18 21:18:00,Blood Sugar Reading,123,mg/dL,4,2021-04-18,39,after_dinner,False
+2021-04-19 06:31:00,Blood Sugar Reading,97,mg/dL,4,2021-04-19,40,fasting,True
+2021-04-19 10:11:00,Carbs,25,g,4,2021-04-19,40,breakfast,False
+2021-04-19 11:20:00,Blood Sugar Reading,108,mg/dL,4,2021-04-19,40,after_breakfast,False
+2021-04-19 12:45:00,Carbs,28,g,4,2021-04-19,40,snack_morning,False
+2021-04-19 16:21:00,Carbs,28,g,4,2021-04-19,40,lunch,False
+2021-04-19 19:39:00,Carbs,20,g,4,2021-04-19,40,dinner,False
+2021-04-19 20:46:00,Blood Sugar Reading,105,mg/dL,4,2021-04-19,40,after_dinner,False
+2021-04-19 20:50:00,Carbs,33,g,4,2021-04-19,40,snack_night,True
+2021-04-20 08:59:00,Blood Sugar Reading,90,mg/dL,4,2021-04-20,41,fasting,False
+2021-04-20 10:14:00,Carbs,20,g,4,2021-04-20,41,breakfast,False
+2021-04-20 11:14:00,Blood Sugar Reading,101,mg/dL,4,2021-04-20,41,after_breakfast,False
+2021-04-20 12:44:00,Carbs,27,g,4,2021-04-20,41,snack_morning,False
+2021-04-20 15:43:00,Carbs,38,g,4,2021-04-20,41,lunch,False
+2021-04-20 16:49:00,Blood Sugar Reading,130,mg/dL,4,2021-04-20,41,after_lunch,False
+2021-04-20 20:38:00,Carbs,40,g,4,2021-04-20,41,snack_afternoon,True
+2021-04-20 21:42:00,Blood Sugar Reading,119,mg/dL,4,2021-04-20,41,after_dinner,False
+2021-04-20 21:52:00,Carbs,20,g,4,2021-04-20,41,snack_night,False
+2021-04-21 08:09:00,Blood Sugar Reading,97,mg/dL,4,2021-04-21,42,fasting,True
+2021-04-21 08:28:00,Carbs,25,g,4,2021-04-21,42,breakfast,False
+2021-04-21 09:29:00,Blood Sugar Reading,110,mg/dL,4,2021-04-21,42,after_breakfast,False
+2021-04-21 11:30:00,Carbs,20,g,4,2021-04-21,42,snack_morning,False
+2021-04-21 14:28:00,Carbs,27,g,4,2021-04-21,42,lunch,False
+2021-04-21 15:35:00,Blood Sugar Reading,100,mg/dL,4,2021-04-21,42,after_lunch,False
+2021-04-21 18:08:00,Carbs,10,g,4,2021-04-21,42,snack_afternoon,False
+2021-04-21 19:37:00,Carbs,20,g,4,2021-04-21,42,dinner,False
+2021-04-21 20:36:00,Blood Sugar Reading,114,mg/dL,4,2021-04-21,42,after_dinner,False
+2021-04-22 09:27:00,Blood Sugar Reading,87,mg/dL,4,2021-04-22,43,fasting,False
+2021-04-22 09:48:00,Carbs,25,g,4,2021-04-22,43,breakfast,False
+2021-04-22 10:54:00,Blood Sugar Reading,116,mg/dL,4,2021-04-22,43,after_breakfast,False
+2021-04-22 12:46:00,Carbs,19,g,4,2021-04-22,43,snack_morning,False
+2021-04-22 16:00:00,Carbs,30,g,4,2021-04-22,43,lunch,False
+2021-04-22 17:06:00,Blood Sugar Reading,110,mg/dL,4,2021-04-22,43,after_lunch,False
+2021-04-22 18:13:00,Carbs,19,g,4,2021-04-22,43,snack_afternoon,False
+2021-04-22 21:12:00,Carbs,40,g,4,2021-04-22,43,dinner,False
+2021-04-22 22:13:00,Blood Sugar Reading,106,mg/dL,4,2021-04-22,43,after_dinner,False
+2021-04-22 22:16:00,Carbs,16,g,4,2021-04-22,43,snack_night,False
+2021-04-23 08:24:00,Blood Sugar Reading,92,mg/dL,4,2021-04-23,44,fasting,True
+2021-04-23 08:34:00,Carbs,25,g,4,2021-04-23,44,breakfast,False
+2021-04-23 09:44:00,Blood Sugar Reading,121,mg/dL,4,2021-04-23,44,after_breakfast,False
+2021-04-23 11:33:00,Carbs,27,g,4,2021-04-23,44,snack_morning,False
+2021-04-23 13:27:00,Carbs,33,g,4,2021-04-23,44,lunch,False
+2021-04-23 14:36:00,Blood Sugar Reading,105,mg/dL,4,2021-04-23,44,after_lunch,False
+2021-04-23 15:54:00,Carbs,30,g,4,2021-04-23,44,snack_afternoon,False
+2021-04-23 20:23:00,Blood Sugar Reading,106,mg/dL,4,2021-04-23,44,after_dinner,False
+2021-04-23 21:50:00,Carbs,18,g,4,2021-04-23,44,snack_night,False
+2021-04-24 08:36:00,Blood Sugar Reading,95,mg/dL,4,2021-04-24,45,fasting,True
+2021-04-24 09:05:00,Carbs,25,g,4,2021-04-24,45,breakfast,False
+2021-04-24 10:34:00,Blood Sugar Reading,113,mg/dL,4,2021-04-24,45,after_breakfast,False
+2021-04-24 11:43:00,Carbs,30,g,4,2021-04-24,45,snack_morning,False
+2021-04-24 14:08:00,Carbs,23,g,4,2021-04-24,45,lunch,False
+2021-04-24 16:29:00,Carbs,24,g,4,2021-04-24,45,snack_afternoon,False
+2021-04-24 20:04:00,Carbs,20,g,4,2021-04-24,45,dinner,False
+2021-04-24 21:05:00,Blood Sugar Reading,105,mg/dL,4,2021-04-24,45,after_dinner,False
+2021-04-24 22:08:00,Carbs,18,g,4,2021-04-24,45,snack_night,False
+2021-04-25 09:17:00,Blood Sugar Reading,101,mg/dL,4,2021-04-25,46,fasting,True
+2021-04-25 09:40:00,Carbs,25,g,4,2021-04-25,46,breakfast,False
+2021-04-25 10:41:00,Blood Sugar Reading,114,mg/dL,4,2021-04-25,46,after_breakfast,False
+2021-04-25 12:36:00,Carbs,30,g,4,2021-04-25,46,snack_morning,False
+2021-04-25 15:26:00,Carbs,14,g,4,2021-04-25,46,lunch,False
+2021-04-25 18:09:00,Carbs,30,g,4,2021-04-25,46,snack_afternoon,False
+2021-04-25 19:43:00,Carbs,25,g,4,2021-04-25,46,dinner,False
+2021-04-25 20:47:00,Blood Sugar Reading,119,mg/dL,4,2021-04-25,46,after_dinner,False
+2021-04-25 21:54:00,Carbs,18,g,4,2021-04-25,46,snack_night,False
+2021-04-26 08:43:00,Blood Sugar Reading,86,mg/dL,4,2021-04-26,47,fasting,False
+2021-04-26 09:03:00,Carbs,25,g,4,2021-04-26,47,breakfast,False
+2021-04-26 10:03:00,Blood Sugar Reading,119,mg/dL,4,2021-04-26,47,after_breakfast,False
+2021-04-26 12:35:00,Carbs,22,g,4,2021-04-26,47,snack_morning,False
+2021-04-26 17:37:00,Blood Sugar Reading,115,mg/dL,4,2021-04-26,47,after_lunch,False
+2021-04-26 18:35:00,Carbs,27,g,4,2021-04-26,47,snack_afternoon,False
+2021-04-26 20:05:00,Carbs,25,g,4,2021-04-26,47,dinner,False
+2021-04-26 21:21:00,Blood Sugar Reading,107,mg/dL,4,2021-04-26,47,after_dinner,False
+2021-04-26 21:48:00,Carbs,18,g,4,2021-04-26,47,snack_night,False
+2021-04-27 08:42:00,Blood Sugar Reading,92,mg/dL,4,2021-04-27,48,fasting,True
+2021-04-27 09:41:00,Carbs,24,g,4,2021-04-27,48,breakfast,False
+2021-04-27 10:45:00,Blood Sugar Reading,121,mg/dL,4,2021-04-27,48,after_breakfast,False
+2021-04-27 12:05:00,Carbs,24,g,4,2021-04-27,48,snack_morning,False
+2021-04-27 14:05:00,Carbs,20,g,4,2021-04-27,48,lunch,False
+2021-04-27 15:20:00,Blood Sugar Reading,99,mg/dL,4,2021-04-27,48,after_lunch,False
+2021-04-27 15:25:00,Carbs,38,g,4,2021-04-27,48,snack_afternoon,True
+2021-04-27 20:23:00,Carbs,28,g,4,2021-04-27,48,dinner,False
+2021-04-27 21:24:00,Blood Sugar Reading,117,mg/dL,4,2021-04-27,48,after_dinner,False
+2021-04-27 21:45:00,Carbs,18,g,4,2021-04-27,48,snack_night,False
+2021-04-28 08:55:00,Blood Sugar Reading,86,mg/dL,4,2021-04-28,49,fasting,False
+2021-04-28 09:50:00,Carbs,20,g,4,2021-04-28,49,breakfast,False
+2021-04-28 10:54:00,Blood Sugar Reading,104,mg/dL,4,2021-04-28,49,after_breakfast,False
+2021-04-28 12:26:00,Carbs,20,g,4,2021-04-28,49,snack_morning,False
+2021-04-28 15:02:00,Carbs,14,g,4,2021-04-28,49,lunch,False
+2021-04-28 16:29:00,Blood Sugar Reading,96,mg/dL,4,2021-04-28,49,after_lunch,False
+2021-04-28 17:30:00,Carbs,30,g,4,2021-04-28,49,snack_afternoon,False
+2021-04-28 19:43:00,Carbs,22,g,4,2021-04-28,49,dinner,False
+2021-04-28 20:49:00,Blood Sugar Reading,114,mg/dL,4,2021-04-28,49,after_dinner,False
+2021-04-28 21:44:00,Carbs,18,g,4,2021-04-28,49,snack_night,False
+2021-04-29 08:21:00,Blood Sugar Reading,91,mg/dL,4,2021-04-29,50,fasting,True
+2021-04-29 09:07:00,Carbs,25,g,4,2021-04-29,50,breakfast,False
+2021-04-29 10:20:00,Blood Sugar Reading,94,mg/dL,4,2021-04-29,50,after_breakfast,False
+2021-04-29 13:20:00,Carbs,14,g,4,2021-04-29,50,snack_morning,False
+2021-04-29 15:15:00,Carbs,36,g,4,2021-04-29,50,lunch,False
+2021-04-29 18:23:00,Carbs,22,g,4,2021-04-29,50,dinner,False
+2021-04-29 20:43:00,Carbs,31,g,4,2021-04-29,50,snack_night,True
+2021-04-30 07:49:00,Blood Sugar Reading,92,mg/dL,4,2021-04-30,51,fasting,True
+2021-04-30 08:25:00,Carbs,25,g,4,2021-04-30,51,breakfast,False
+2021-04-30 09:25:00,Blood Sugar Reading,114,mg/dL,4,2021-04-30,51,after_breakfast,False
+2021-04-30 10:42:00,Carbs,30,g,4,2021-04-30,51,snack_morning,False
+2021-04-30 13:05:00,Carbs,23,g,4,2021-04-30,51,lunch,False
+2021-04-30 13:59:00,Blood Sugar Reading,105,mg/dL,4,2021-04-30,51,after_lunch,False
+2021-04-30 17:31:00,Carbs,27,g,4,2021-04-30,51,snack_afternoon,False
+2021-04-30 21:05:00,Carbs,25,g,4,2021-04-30,51,dinner,False
+2021-04-30 22:11:00,Blood Sugar Reading,136,mg/dL,4,2021-04-30,51,after_dinner,True
+2021-05-01 08:56:00,Blood Sugar Reading,85,mg/dL,5,2021-05-01,52,fasting,False
+2021-05-01 09:27:00,Carbs,25,g,5,2021-05-01,52,breakfast,False
+2021-05-01 10:36:00,Blood Sugar Reading,110,mg/dL,5,2021-05-01,52,after_breakfast,False
+2021-05-01 11:40:00,Carbs,20,g,5,2021-05-01,52,snack_morning,False
+2021-05-01 13:47:00,Carbs,23,g,5,2021-05-01,52,lunch,False
+2021-05-01 14:46:00,Blood Sugar Reading,115,mg/dL,5,2021-05-01,52,after_lunch,False
+2021-05-01 16:18:00,Carbs,23,g,5,2021-05-01,52,snack_afternoon,False
+2021-05-01 19:45:00,Carbs,28,g,5,2021-05-01,52,dinner,False
+2021-05-01 20:46:00,Blood Sugar Reading,101,mg/dL,5,2021-05-01,52,after_dinner,False
+2021-05-02 08:35:00,Blood Sugar Reading,83,mg/dL,5,2021-05-02,53,fasting,False
+2021-05-02 10:18:00,Carbs,34,g,5,2021-05-02,53,breakfast,True
+2021-05-02 11:21:00,Blood Sugar Reading,113,mg/dL,5,2021-05-02,53,after_breakfast,False
+2021-05-02 12:31:00,Carbs,30,g,5,2021-05-02,53,snack_morning,False
+2021-05-02 14:40:00,Carbs,24,g,5,2021-05-02,53,lunch,False
+2021-05-02 15:48:00,Blood Sugar Reading,77,mg/dL,5,2021-05-02,53,after_lunch,False
+2021-05-02 15:56:00,Carbs,21,g,5,2021-05-02,53,snack_afternoon,False
+2021-05-02 19:25:00,Carbs,28,g,5,2021-05-02,53,dinner,False
+2021-05-02 20:24:00,Blood Sugar Reading,111,mg/dL,5,2021-05-02,53,after_dinner,False
+2021-05-03 08:36:00,Blood Sugar Reading,92,mg/dL,5,2021-05-03,54,fasting,True
+2021-05-03 09:01:00,Carbs,21,g,5,2021-05-03,54,breakfast,False
+2021-05-03 10:05:00,Blood Sugar Reading,105,mg/dL,5,2021-05-03,54,after_breakfast,False
+2021-05-03 11:00:00,Carbs,20,g,5,2021-05-03,54,snack_morning,False
+2021-05-03 13:52:00,Carbs,26,g,5,2021-05-03,54,lunch,False
+2021-05-03 17:11:00,Carbs,30,g,5,2021-05-03,54,snack_afternoon,False
+2021-05-03 19:29:00,Carbs,25,g,5,2021-05-03,54,dinner,False
+2021-05-03 20:33:00,Blood Sugar Reading,124,mg/dL,5,2021-05-03,54,after_dinner,False
+2021-05-03 21:35:00,Carbs,18,g,5,2021-05-03,54,snack_night,False
+2021-05-04 08:17:00,Blood Sugar Reading,87,mg/dL,5,2021-05-04,55,fasting,False
+2021-05-04 08:39:00,Carbs,25,g,5,2021-05-04,55,breakfast,False
+2021-05-04 09:45:00,Blood Sugar Reading,116,mg/dL,5,2021-05-04,55,after_breakfast,False
+2021-05-04 11:35:00,Carbs,25,g,5,2021-05-04,55,snack_morning,False
+2021-05-04 14:50:00,Carbs,35,g,5,2021-05-04,55,lunch,False
+2021-05-04 15:58:00,Blood Sugar Reading,93,mg/dL,5,2021-05-04,55,after_lunch,False
+2021-05-04 16:04:00,Carbs,30,g,5,2021-05-04,55,snack_afternoon,False
+2021-05-04 19:37:00,Carbs,29,g,5,2021-05-04,55,dinner,False
+2021-05-04 20:41:00,Blood Sugar Reading,110,mg/dL,5,2021-05-04,55,after_dinner,False
+2021-05-04 21:41:00,Carbs,18,g,5,2021-05-04,55,snack_night,False
+2021-05-05 08:37:00,Blood Sugar Reading,92,mg/dL,5,2021-05-05,56,fasting,True
+2021-05-05 08:50:00,Carbs,31,g,5,2021-05-05,56,breakfast,True
+2021-05-05 09:51:00,Blood Sugar Reading,120,mg/dL,5,2021-05-05,56,after_breakfast,False
+2021-05-05 11:20:00,Carbs,30,g,5,2021-05-05,56,snack_morning,False
+2021-05-05 15:22:00,Carbs,23,g,5,2021-05-05,56,lunch,False
+2021-05-05 16:41:00,Blood Sugar Reading,105,mg/dL,5,2021-05-05,56,after_lunch,False
+2021-05-05 17:48:00,Carbs,31,g,5,2021-05-05,56,snack_afternoon,True
+2021-05-05 19:47:00,Carbs,25,g,5,2021-05-05,56,dinner,False
+2021-05-05 20:49:00,Blood Sugar Reading,122,mg/dL,5,2021-05-05,56,after_dinner,False
+2021-05-05 21:44:00,Carbs,18,g,5,2021-05-05,56,snack_night,False
+2021-05-06 08:04:00,Blood Sugar Reading,85,mg/dL,5,2021-05-06,57,fasting,False
+2021-05-06 08:20:00,Carbs,20,g,5,2021-05-06,57,breakfast,False
+2021-05-06 09:21:00,Blood Sugar Reading,92,mg/dL,5,2021-05-06,57,after_breakfast,False
+2021-05-06 09:30:00,Carbs,35,g,5,2021-05-06,57,snack_morning,True
+2021-05-06 13:40:00,Carbs,23,g,5,2021-05-06,57,lunch,False
+2021-05-06 14:44:00,Blood Sugar Reading,101,mg/dL,5,2021-05-06,57,after_lunch,False
+2021-05-06 16:05:00,Carbs,28,g,5,2021-05-06,57,snack_afternoon,False
+2021-05-06 19:32:00,Carbs,19,g,5,2021-05-06,57,dinner,False
+2021-05-06 20:33:00,Blood Sugar Reading,103,mg/dL,5,2021-05-06,57,after_dinner,False
+2021-05-06 21:34:00,Carbs,18,g,5,2021-05-06,57,snack_night,False
+2021-05-07 08:34:00,Blood Sugar Reading,85,mg/dL,5,2021-05-07,58,fasting,False
+2021-05-07 08:54:00,Carbs,25,g,5,2021-05-07,58,breakfast,False
+2021-05-07 10:11:00,Blood Sugar Reading,97,mg/dL,5,2021-05-07,58,after_breakfast,False
+2021-05-07 11:05:00,Carbs,32,g,5,2021-05-07,58,snack_morning,True
+2021-05-07 14:31:00,Carbs,23,g,5,2021-05-07,58,lunch,False
+2021-05-07 15:51:00,Blood Sugar Reading,104,mg/dL,5,2021-05-07,58,after_lunch,False
+2021-05-07 17:37:00,Carbs,30,g,5,2021-05-07,58,snack_afternoon,False
+2021-05-07 19:45:00,Carbs,45,g,5,2021-05-07,58,dinner,False
+2021-05-07 20:46:00,Blood Sugar Reading,147,mg/dL,5,2021-05-07,58,after_dinner,True
+2021-05-07 21:46:00,Carbs,18,g,5,2021-05-07,58,snack_night,False
+2021-05-08 09:42:00,Blood Sugar Reading,88,mg/dL,5,2021-05-08,59,fasting,False
+2021-05-08 10:30:00,Carbs,29,g,5,2021-05-08,59,breakfast,False
+2021-05-08 11:40:00,Blood Sugar Reading,144,mg/dL,5,2021-05-08,59,after_breakfast,True
+2021-05-08 12:40:00,Carbs,19,g,5,2021-05-08,59,snack_morning,False
+2021-05-08 15:15:00,Carbs,26,g,5,2021-05-08,59,lunch,False
+2021-05-08 16:11:00,Blood Sugar Reading,106,mg/dL,5,2021-05-08,59,after_lunch,False
+2021-05-08 18:59:00,Carbs,16,g,5,2021-05-08,59,snack_afternoon,False
+2021-05-08 19:56:00,Carbs,19,g,5,2021-05-08,59,dinner,False
+2021-05-08 20:54:00,Blood Sugar Reading,110,mg/dL,5,2021-05-08,59,after_dinner,False
+2021-05-08 21:02:00,Carbs,31,g,5,2021-05-08,59,snack_night,True
+2021-05-09 06:27:00,Blood Sugar Reading,88,mg/dL,5,2021-05-09,60,fasting,False
+2021-05-09 09:28:00,Carbs,38,g,5,2021-05-09,60,breakfast,True
+2021-05-09 10:33:00,Blood Sugar Reading,106,mg/dL,5,2021-05-09,60,after_breakfast,False
+2021-05-09 11:50:00,Carbs,13,g,5,2021-05-09,60,snack_morning,False
+2021-05-09 15:28:00,Blood Sugar Reading,76,mg/dL,5,2021-05-09,60,after_lunch,False
+2021-05-09 15:56:00,Carbs,10,g,5,2021-05-09,60,snack_afternoon,False
+2021-05-09 19:44:00,Carbs,19,g,5,2021-05-09,60,dinner,False
+2021-05-09 20:47:00,Blood Sugar Reading,103,mg/dL,5,2021-05-09,60,after_dinner,False
+2021-05-09 20:57:00,Carbs,17,g,5,2021-05-09,60,snack_night,False
+2021-05-10 09:03:00,Blood Sugar Reading,85,mg/dL,5,2021-05-10,61,fasting,False
+2021-05-10 09:39:00,Carbs,25,g,5,2021-05-10,61,breakfast,False
+2021-05-10 10:46:00,Blood Sugar Reading,115,mg/dL,5,2021-05-10,61,after_breakfast,False
+2021-05-10 13:27:00,Carbs,17,g,5,2021-05-10,61,snack_morning,False
+2021-05-10 14:02:00,Carbs,24,g,5,2021-05-10,61,lunch,False
+2021-05-10 15:09:00,Blood Sugar Reading,114,mg/dL,5,2021-05-10,61,after_lunch,False
+2021-05-10 18:01:00,Carbs,21,g,5,2021-05-10,61,snack_afternoon,False
+2021-05-10 20:08:00,Carbs,26,g,5,2021-05-10,61,dinner,False
+2021-05-10 21:09:00,Blood Sugar Reading,116,mg/dL,5,2021-05-10,61,after_dinner,False
+2021-05-10 21:48:00,Carbs,18,g,5,2021-05-10,61,snack_night,False
+2021-05-11 08:58:00,Blood Sugar Reading,90,mg/dL,5,2021-05-11,62,fasting,False
+2021-05-11 09:19:00,Carbs,34,g,5,2021-05-11,62,breakfast,True
+2021-05-11 10:20:00,Blood Sugar Reading,122,mg/dL,5,2021-05-11,62,after_breakfast,False
+2021-05-11 12:18:00,Carbs,27,g,5,2021-05-11,62,snack_morning,False
+2021-05-11 14:18:00,Carbs,40,g,5,2021-05-11,62,lunch,False
+2021-05-11 15:36:00,Blood Sugar Reading,108,mg/dL,5,2021-05-11,62,after_lunch,False
+2021-05-11 17:08:00,Carbs,16,g,5,2021-05-11,62,snack_afternoon,False
+2021-05-11 19:19:00,Carbs,26,g,5,2021-05-11,62,dinner,False
+2021-05-11 20:12:00,Blood Sugar Reading,113,mg/dL,5,2021-05-11,62,after_dinner,False
+2021-05-11 21:34:00,Carbs,18,g,5,2021-05-11,62,snack_night,False
+2021-05-12 08:56:00,Blood Sugar Reading,85,mg/dL,5,2021-05-12,63,fasting,False
+2021-05-12 09:38:00,Carbs,37,g,5,2021-05-12,63,breakfast,True
+2021-05-12 10:39:00,Blood Sugar Reading,121,mg/dL,5,2021-05-12,63,after_breakfast,False
+2021-05-12 11:59:00,Carbs,34,g,5,2021-05-12,63,snack_morning,True
+2021-05-12 14:36:00,Carbs,24,g,5,2021-05-12,63,lunch,False
+2021-05-12 16:45:00,Carbs,29,g,5,2021-05-12,63,snack_afternoon,False
+2021-05-12 17:44:00,Blood Sugar Reading,110,mg/dL,5,2021-05-12,63,after_lunch,False
+2021-05-12 19:31:00,Carbs,24,g,5,2021-05-12,63,dinner,False
+2021-05-12 20:36:00,Blood Sugar Reading,134,mg/dL,5,2021-05-12,63,after_dinner,True
+2021-05-12 21:39:00,Carbs,18,g,5,2021-05-12,63,snack_night,False
+2021-05-13 08:54:00,Blood Sugar Reading,83,mg/dL,5,2021-05-13,64,fasting,False
+2021-05-13 09:14:00,Carbs,25,g,5,2021-05-13,64,breakfast,False
+2021-05-13 10:17:00,Blood Sugar Reading,105,mg/dL,5,2021-05-13,64,after_breakfast,False
+2021-05-13 11:36:00,Carbs,23,g,5,2021-05-13,64,snack_morning,False
+2021-05-13 15:52:00,Carbs,39,g,5,2021-05-13,64,lunch,False
+2021-05-13 16:59:00,Blood Sugar Reading,130,mg/dL,5,2021-05-13,64,after_lunch,False
+2021-05-13 18:13:00,Carbs,23,g,5,2021-05-13,64,snack_afternoon,False
+2021-05-13 19:38:00,Carbs,29,g,5,2021-05-13,64,dinner,False
+2021-05-13 20:44:00,Blood Sugar Reading,103,mg/dL,5,2021-05-13,64,after_dinner,False
+2021-05-13 21:32:00,Carbs,18,g,5,2021-05-13,64,snack_night,False
+2021-05-14 08:46:00,Blood Sugar Reading,92,mg/dL,5,2021-05-14,65,fasting,True
+2021-05-14 09:01:00,Carbs,38,g,5,2021-05-14,65,breakfast,True
+2021-05-14 09:59:00,Blood Sugar Reading,122,mg/dL,5,2021-05-14,65,after_breakfast,False
+2021-05-14 11:16:00,Carbs,23,g,5,2021-05-14,65,snack_morning,False
+2021-05-14 14:54:00,Carbs,29,g,5,2021-05-14,65,lunch,False
+2021-05-14 16:00:00,Blood Sugar Reading,114,mg/dL,5,2021-05-14,65,after_lunch,False
+2021-05-14 17:36:00,Carbs,23,g,5,2021-05-14,65,snack_afternoon,False
+2021-05-14 19:59:00,Carbs,19,g,5,2021-05-14,65,dinner,False
+2021-05-14 21:00:00,Blood Sugar Reading,112,mg/dL,5,2021-05-14,65,after_dinner,False
+2021-05-14 21:43:00,Carbs,18,g,5,2021-05-14,65,snack_night,False
+2021-05-15 06:46:00,Blood Sugar Reading,91,mg/dL,5,2021-05-15,66,fasting,True
+2021-05-15 08:59:00,Carbs,34,g,5,2021-05-15,66,breakfast,True
+2021-05-15 10:02:00,Blood Sugar Reading,114,mg/dL,5,2021-05-15,66,after_breakfast,False
+2021-05-15 11:22:00,Carbs,25,g,5,2021-05-15,66,snack_morning,False
+2021-05-15 13:53:00,Carbs,38,g,5,2021-05-15,66,lunch,False
+2021-05-15 15:05:00,Blood Sugar Reading,106,mg/dL,5,2021-05-15,66,after_lunch,False
+2021-05-15 19:07:00,Carbs,21,g,5,2021-05-15,66,snack_afternoon,False
+2021-05-15 20:19:00,Blood Sugar Reading,103,mg/dL,5,2021-05-15,66,after_dinner,False
+2021-05-16 08:29:00,Blood Sugar Reading,86,mg/dL,5,2021-05-16,67,fasting,False
+2021-05-16 08:52:00,Carbs,25,g,5,2021-05-16,67,breakfast,False
+2021-05-16 09:57:00,Blood Sugar Reading,98,mg/dL,5,2021-05-16,67,after_breakfast,False
+2021-05-16 11:13:00,Carbs,28,g,5,2021-05-16,67,snack_morning,False
+2021-05-16 14:19:00,Carbs,30,g,5,2021-05-16,67,lunch,False
+2021-05-16 15:18:00,Blood Sugar Reading,104,mg/dL,5,2021-05-16,67,after_lunch,False
+2021-05-16 15:27:00,Carbs,31,g,5,2021-05-16,67,snack_afternoon,True
+2021-05-16 20:34:00,Carbs,25,g,5,2021-05-16,67,dinner,False
+2021-05-16 21:34:00,Blood Sugar Reading,114,mg/dL,5,2021-05-16,67,after_dinner,False
+2021-05-16 21:39:00,Carbs,16,g,5,2021-05-16,67,snack_night,False
+2021-05-17 09:55:00,Carbs,25,g,5,2021-05-17,68,breakfast,False
+2021-05-17 11:06:00,Blood Sugar Reading,96,mg/dL,5,2021-05-17,68,after_breakfast,False
+2021-05-17 12:20:00,Carbs,23,g,5,2021-05-17,68,snack_morning,False
+2021-05-17 15:08:00,Carbs,20,g,5,2021-05-17,68,lunch,False
+2021-05-17 16:13:00,Blood Sugar Reading,110,mg/dL,5,2021-05-17,68,after_lunch,False
+2021-05-17 17:40:00,Carbs,23,g,5,2021-05-17,68,snack_afternoon,False
+2021-05-17 19:46:00,Carbs,25,g,5,2021-05-17,68,dinner,False
+2021-05-17 20:49:00,Blood Sugar Reading,103,mg/dL,5,2021-05-17,68,after_dinner,False
+2021-05-17 21:43:00,Carbs,19,g,5,2021-05-17,68,snack_night,False
+2021-05-18 06:32:00,Blood Sugar Reading,89,mg/dL,5,2021-05-18,69,fasting,False
+2021-05-18 09:53:00,Carbs,25,g,5,2021-05-18,69,breakfast,False
+2021-05-18 11:08:00,Blood Sugar Reading,107,mg/dL,5,2021-05-18,69,after_breakfast,False
+2021-05-18 12:08:00,Carbs,23,g,5,2021-05-18,69,snack_morning,False
+2021-05-18 16:05:00,Carbs,34,g,5,2021-05-18,69,lunch,False
+2021-05-18 17:27:00,Blood Sugar Reading,112,mg/dL,5,2021-05-18,69,after_lunch,False
+2021-05-18 18:43:00,Carbs,23,g,5,2021-05-18,69,snack_afternoon,False
+2021-05-18 19:51:00,Carbs,25,g,5,2021-05-18,69,dinner,False
+2021-05-18 20:53:00,Blood Sugar Reading,111,mg/dL,5,2021-05-18,69,after_dinner,False
+2021-05-18 21:37:00,Carbs,15,g,5,2021-05-18,69,snack_night,False
+2021-05-19 08:58:00,Blood Sugar Reading,90,mg/dL,5,2021-05-19,70,fasting,False
+2021-05-19 09:50:00,Carbs,25,g,5,2021-05-19,70,breakfast,False
+2021-05-19 10:45:00,Blood Sugar Reading,101,mg/dL,5,2021-05-19,70,after_breakfast,False
+2021-05-19 11:52:00,Carbs,23,g,5,2021-05-19,70,snack_morning,False
+2021-05-19 15:16:00,Carbs,37,g,5,2021-05-19,70,lunch,False
+2021-05-19 16:42:00,Blood Sugar Reading,107,mg/dL,5,2021-05-19,70,after_lunch,False
+2021-05-19 17:51:00,Carbs,23,g,5,2021-05-19,70,snack_afternoon,False
+2021-05-19 20:09:00,Carbs,25,g,5,2021-05-19,70,dinner,False
+2021-05-19 21:10:00,Blood Sugar Reading,125,mg/dL,5,2021-05-19,70,after_dinner,False
+2021-05-19 21:56:00,Carbs,15,g,5,2021-05-19,70,snack_night,False
+2021-05-20 07:01:00,Blood Sugar Reading,93,mg/dL,5,2021-05-20,71,fasting,True
+2021-05-20 08:57:00,Carbs,38,g,5,2021-05-20,71,breakfast,True
+2021-05-20 09:57:00,Blood Sugar Reading,137,mg/dL,5,2021-05-20,71,after_breakfast,True
+2021-05-20 11:15:00,Carbs,23,g,5,2021-05-20,71,snack_morning,False
+2021-05-20 13:47:00,Carbs,32,g,5,2021-05-20,71,lunch,False
+2021-05-20 15:01:00,Blood Sugar Reading,120,mg/dL,5,2021-05-20,71,after_lunch,False
+2021-05-20 17:07:00,Carbs,23,g,5,2021-05-20,71,snack_afternoon,False
+2021-05-20 19:25:00,Carbs,25,g,5,2021-05-20,71,dinner,False
+2021-05-20 20:27:00,Blood Sugar Reading,122,mg/dL,5,2021-05-20,71,after_dinner,False
+2021-05-20 21:27:00,Carbs,28,g,5,2021-05-20,71,snack_night,False
+2021-05-21 08:38:00,Blood Sugar Reading,88,mg/dL,5,2021-05-21,72,fasting,False
+2021-05-21 09:07:00,Carbs,20,g,5,2021-05-21,72,breakfast,False
+2021-05-21 11:37:00,Carbs,23,g,5,2021-05-21,72,snack_morning,False
+2021-05-21 14:18:00,Carbs,24,g,5,2021-05-21,72,lunch,False
+2021-05-21 15:28:00,Blood Sugar Reading,92,mg/dL,5,2021-05-21,72,after_lunch,False
+2021-05-21 17:52:00,Carbs,23,g,5,2021-05-21,72,snack_afternoon,False
+2021-05-21 20:09:00,Carbs,25,g,5,2021-05-21,72,dinner,False
+2021-05-21 21:00:00,Blood Sugar Reading,129,mg/dL,5,2021-05-21,72,after_dinner,False
+2021-05-21 21:49:00,Carbs,18,g,5,2021-05-21,72,snack_night,False
+2021-05-22 08:57:00,Blood Sugar Reading,85,mg/dL,5,2021-05-22,73,fasting,False
+2021-05-22 09:22:00,Carbs,25,g,5,2021-05-22,73,breakfast,False
+2021-05-22 10:22:00,Blood Sugar Reading,111,mg/dL,5,2021-05-22,73,after_breakfast,False
+2021-05-22 11:20:00,Carbs,27,g,5,2021-05-22,73,snack_morning,False
+2021-05-22 14:41:00,Carbs,24,g,5,2021-05-22,73,lunch,False
+2021-05-22 15:43:00,Blood Sugar Reading,113,mg/dL,5,2021-05-22,73,after_lunch,False
+2021-05-22 15:45:00,Carbs,16,g,5,2021-05-22,73,snack_afternoon,False
+2021-05-22 17:21:00,Carbs,23,g,5,2021-05-22,73,dinner,False
+2021-05-22 21:45:00,Carbs,18,g,5,2021-05-22,73,snack_night,False
+2021-05-23 09:38:00,Blood Sugar Reading,86,mg/dL,5,2021-05-23,74,fasting,False
+2021-05-23 10:12:00,Carbs,37,g,5,2021-05-23,74,breakfast,True
+2021-05-23 11:20:00,Blood Sugar Reading,123,mg/dL,5,2021-05-23,74,after_breakfast,False
+2021-05-23 12:45:00,Carbs,23,g,5,2021-05-23,74,snack_morning,False
+2021-05-23 15:16:00,Carbs,34,g,5,2021-05-23,74,lunch,False
+2021-05-23 20:16:00,Carbs,23,g,5,2021-05-23,74,dinner,False
+2021-05-23 21:17:00,Blood Sugar Reading,105,mg/dL,5,2021-05-23,74,after_dinner,False
+2021-05-23 21:56:00,Carbs,14,g,5,2021-05-23,74,snack_night,False
