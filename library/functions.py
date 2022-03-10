@@ -48,7 +48,7 @@ def jlcap_optimize_arima(y, ps, qs, d=1):
                 res = mod.fit()
                 summary.append([(p, d, q), res.aic])
             except:
-                summary.append([(p, d, q), None, None])
+                summary.append([(p, d, q), None])
     
     summary_df = pd.DataFrame(summary)
     summary_df.columns = ['Order', 'AIC']
