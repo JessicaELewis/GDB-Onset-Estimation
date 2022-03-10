@@ -37,7 +37,7 @@ def jlcap_test_stationarity(timeseries):
     
     
 
-def jlcap_optimize_arima(y, ps, qs, d=1):
+def jlcap_optimize_arima(y, ps, qs, d=1, display=3):
     warnings.filterwarnings("ignore")
     summary = []
     
@@ -56,4 +56,4 @@ def jlcap_optimize_arima(y, ps, qs, d=1):
     
     warnings.filterwarnings("default")
     
-    return summary_aic[:3]
+    return summary_aic[:display]
